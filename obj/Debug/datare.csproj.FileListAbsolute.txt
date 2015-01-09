@@ -1,0 +1,8 @@
+C:\Users\kindle\Documents\Visual Studio 2013\Projects\datarecovery\datarecovery\datare\bin\Debug\datare.exe.config
+C:\Users\kindle\Documents\Visual Studio 2013\Projects\datarecovery\datarecovery\datare\bin\Debug\datare.exe
+C:\Users\kindle\Documents\Visual Studio 2013\Projects\datarecovery\datarecovery\datare\bin\Debug\datare.pdb
+C:\Users\kindle\Documents\Visual Studio 2013\Projects\datarecovery\datarecovery\datare\obj\Debug\datare.Form1.resources
+C:\Users\kindle\Documents\Visual Studio 2013\Projects\datarecovery\datarecovery\datare\obj\Debug\datare.Properties.Resources.resources
+C:\Users\kindle\Documents\Visual Studio 2013\Projects\datarecovery\datarecovery\datare\obj\Debug\datare.csproj.GenerateResource.Cache
+C:\Users\kindle\Documents\Visual Studio 2013\Projects\datarecovery\datarecovery\datare\obj\Debug\datare.exe
+C:\Users\kindle\Documents\Visual Studio 2013\Projects\datarecovery\datarecovery\datare\obj\Debug\datare.pdb
